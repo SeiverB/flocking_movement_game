@@ -1,6 +1,6 @@
 ## LOGIC / DESIGN 
 
-This small game is designed to simulate sheep herding. 
+This small game is designed to simulate sheep herding, through implementing "Boids"-style AI agents.
 After leaving the main menu screen by left-clicking within the window, 
 The player character appears as a dog, 
 which can be moved to any point in the play area by placing their mouse cursor at a position.
