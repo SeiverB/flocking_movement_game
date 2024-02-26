@@ -1,4 +1,4 @@
-LOGIC / DESIGN -------------------------------------------------------------------------------------------
+## LOGIC / DESIGN 
 
 This small game is designed to simulate sheep herding. 
 After leaving the main menu screen by left-clicking within the window, 
@@ -33,7 +33,7 @@ displayed. Further hitting left click will restart the game from round 0.
 
 
 
-HOW TO COMPILE / RUN -------------------------------------------------------------------------------------
+## HOW TO COMPILE / RUN
 
 
 To run game, simply execute the included .jar file.
@@ -46,7 +46,6 @@ navigate to the "source" folder included in this zip file, and run the following
 javac *.javac
 
 jar cvfm game.jar MANIFEST.MF *.class movement/behaviours/*.class movement/util/*.class resources/*.png
-
 
 the .jar file may then be executed from the command line by: java -jar game.jar
 
